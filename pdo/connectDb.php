@@ -3,7 +3,7 @@
 // initialize base variables for PDO connection
 $host = 'localhost';
 $user = 'root';
-$password = 'bobi1996';
+$password = '{enter your password here}';
 $dbname = 'pdolab';
 
 $conn="";
